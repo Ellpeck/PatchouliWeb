@@ -1,0 +1,24 @@
+{
+  "name": "PatchouliWeb",
+  "version": "1.0.0",
+  "description": "A node app that generates a web version of any Patchouli manual in one command",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ellpeck/PatchouliWeb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ellpeck/PatchouliWeb/issues"
+  },
+  "homepage": "https://github.com/Ellpeck/PatchouliWeb#readme",
+  "dependencies": {
+    "jsdom": "^16.2.0",
+    "jsonc-parser": "^2.2.1"
+  }
+}

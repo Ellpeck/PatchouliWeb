@@ -1,0 +1,8 @@
+{
+    // The relative (to this config file) path of the book's data
+    "rootPath": "path/to/book/data",
+    // The title of the book's site (or just the title of the book)
+    "title": "",
+    // The language code to get the book data from
+    "language": "en_us"
+}
